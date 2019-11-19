@@ -1,0 +1,1642 @@
+﻿Log file open, 11/18/19 17:22:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SpaceshipGameBP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.985750
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.115s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.11.18-23.22.11:399][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-23.22.11:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.18-23.22.11:422][  0]LogHAL: Display: Platform has ~ 16 GB [17044414464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.18-23.22.11:423][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.11.18-23.22.11:423][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.18-23.22.11:429][  0]LogInit: Computer: LAPTOPCYBERPOWE
+[2019.11.18-23.22.11:429][  0]LogInit: User: SamHirsch
+[2019.11.18-23.22.11:429][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.18-23.22.11:430][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.18-23.22.11:430][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.18-23.22.11:430][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.18-23.22.11:430][  0]LogMemory: Process Physical Memory: 104.93 MB used, 104.94 MB peak
+[2019.11.18-23.22.11:430][  0]LogMemory: Process Virtual Memory: 85.83 MB used, 85.83 MB peak
+[2019.11.18-23.22.11:430][  0]LogMemory: Physical Memory: 9896.45 MB used,  6358.38 MB free, 16254.82 MB total
+[2019.11.18-23.22.11:430][  0]LogMemory: Virtual Memory: 4641.29 MB used,  6358.38 MB free, 134217728.00 MB total
+[2019.11.18-23.22.11:694][  0]LogInit: Using OS detected language (en-US).
+[2019.11.18-23.22.11:694][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.18-23.22.11:697][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.18-23.22.12:123][  0]LogStreaming: Display: Took  0.429s to InitEngineTextLocalization.
+[2019.11.18-23.22.12:124][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.18-23.22.12:235][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.18-23.22.12:235][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.18-23.22.21:894][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.11.18-23.22.21:894][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.18-23.22.22:105][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.11.18-23.22.22:105][  0]LogD3D11RHI:       6052/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.18-23.22.22:126][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.18-23.22.22:126][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.18-23.22.22:128][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.18-23.22.22:128][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.18-23.22.22:128][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.18-23.22.22:159][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.18-23.22.22:159][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.18-23.22.22:160][  0]LogWindows: EnumDisplayDevices:
+[2019.11.18-23.22.22:160][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.18-23.22.22:160][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.18-23.22.22:160][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.18-23.22.22:161][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.11.18-23.22.22:161][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.11.18-23.22.22:161][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.11.18-23.22.22:161][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.11.18-23.22.22:161][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.11.18-23.22.22:161][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.18-23.22.22:216][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.18-23.22.22:273][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.18-23.22.22:277][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Intermediate/Shaders/WorkingDirectory/23852/).
+[2019.11.18-23.22.22:278][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sam Hirsch/AppData/Local/Temp/UnrealShaderWorkingDir/25BB5DB84EF65302887011B9882FF152/'.
+[2019.11.18-23.22.22:928][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.11.18-23.22.22:960][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.11.18-23.22.22:989][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.11.18-23.22.23:476][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.11.18-23.22.23:515][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.11.18-23.22.23:551][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.11.18-23.22.23:582][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.11.18-23.22.23:620][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.11.18-23.22.23:647][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:793][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.18-23.22.23:813][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.11.18-23.22.23:943][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.11.18-23.22.23:943][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.11.18-23.22.23:990][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.11.18-23.22.23:990][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.11.18-23.22.24:032][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.11.18-23.22.24:070][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.11.18-23.22.24:110][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.11.18-23.22.24:285][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.11.18-23.22.24:316][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.11.18-23.22.24:316][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.18-23.22.24:855][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.18-23.22.24:855][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.18-23.22.24:855][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.18-23.22.27:612][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.18-23.22.28:073][  0]LogDerivedDataCache: Loaded boot cache 0.46s 71MB C:/Users/Sam Hirsch/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.11.18-23.22.28:074][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sam Hirsch/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.11.18-23.22.28:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.18-23.22.28:074][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.18-23.22.28:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-23.22.28:074][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.18-23.22.28:102][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.18-23.22.28:116][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sam Hirsch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.18-23.22.28:116][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.18-23.22.28:116][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.18-23.22.28:134][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.18-23.22.28:143][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.18-23.22.28:162][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.18-23.22.28:439][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2019.11.18-23.22.28:845][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-23.22.29:221][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.11.18-23.22.29:269][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.11.18-23.22.29:269][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.18-23.22.29:270][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.18-23.22.29:270][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.11.18-23.22.29:415][  0]LogNetVersion: SpaceshipGameBP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1689264264)
+[2019.11.18-23.22.31:129][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.143774 seconds
+[2019.11.18-23.22.31:137][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.11.18-23.22.31:137][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.11.18-23.22.31:137][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.18-23.22.36:585][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.18-23.22.36:616][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.18-23.22.37:168][  0]SourceControl: Source control is disabled
+[2019.11.18-23.22.37:169][  0]SourceControl: Source control is disabled
+[2019.11.18-23.22.37:202][  0]SourceControl: Source control is disabled
+[2019.11.18-23.22.37:219][  0]SourceControl: Source control is disabled
+[2019.11.18-23.22.37:985][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.18-23.22.38:295][  0]LogOcInput: OculusInput pre-init called
+[2019.11.18-23.22.38:489][  0]LogEngine: Initializing Engine...
+[2019.11.18-23.22.43:797][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2019.11.18-23.22.43:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.11.18-23.22.43:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.18-23.22.43:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.18-23.22.43:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.18-23.22.44:215][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.18-23.22.44:268][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.18-23.22.44:331][  0]LogInit: XAudio2 using 'Speakers +SSE3 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-23.22.44:387][  0]LogInit: FAudioDevice initialized.
+[2019.11.18-23.22.44:387][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.18-23.22.44:514][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Sam Hirsch/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.11.18-23.22.44:532][  0]LogInit: Texture streaming: Enabled
+[2019.11.18-23.22.44:623][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.18-23.22.44:663][  0]LogInit: Transaction tracking system initialized
+[2019.11.18-23.22.44:783][  0]BlueprintLog: New page: Editor Load
+[2019.11.18-23.22.45:280][  0]LocalizationService: Localization service is disabled
+[2019.11.18-23.22.46:346][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.18-23.22.46:346][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/' took 0.02s
+[2019.11.18-23.22.46:346][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.18-23.22.46:347][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.11.18-23.22.46:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.11.18-23.22.46:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.18-23.22.46:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.18-23.22.46:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.18-23.22.47:044][  0]SourceControl: Source control is disabled
+[2019.11.18-23.22.47:045][  0]Cmd: MAP LOAD FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-23.22.47:045][  0]LightingResults: New page: Lighting Build
+[2019.11.18-23.22.47:054][  0]MapCheck: New page: Map Check
+[2019.11.18-23.22.47:054][  0]LightingResults: New page: Lighting Build
+[2019.11.18-23.22.48:186][  0]LogAIModule: Creating AISystem for world Level
+[2019.11.18-23.22.48:211][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.18-23.22.48:239][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-23.22.48:278][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.602ms to complete.
+[2019.11.18-23.22.48:278][  0]LogFileHelpers: Loading map 'Level' took 1.234
+[2019.11.18-23.22.48:460][  0]LogCollectionManager: Loaded 0 collections in 0.000721 seconds
+[2019.11.18-23.22.48:510][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Collections/' took 0.01s
+[2019.11.18-23.22.48:510][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Developers/SamHirsch/Collections/' took 0.01s
+[2019.11.18-23.22.48:510][  0]LogFileCache: Scanning file cache for directory 'D:/Epic Games/UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Collections/' took 0.01s
+[2019.11.18-23.22.48:510][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.18-23.22.48:519][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2572 classes and 603 folders.
+[2019.11.18-23.22.48:526][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-23.22.48:936][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-23.22.48:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-23.22.48:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-23.22.48:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-23.22.49:004][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-23.22.49:025][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.18-23.22.49:182][  0]LogSlate: Took 0.005992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.18-23.22.49:192][  0]LogSlate: Took 0.007220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.18-23.22.49:198][  0]LogSlate: Took 0.005937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.18-23.22.49:221][  0]LogSlate: Took 0.005176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-23.22.49:325][  0]LogRenderer: Reallocating scene render targets to support 844x712 Format 10 NumSamples 1 (Frame:1).
+[2019.11.18-23.22.49:562][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-23.22.49:562][  0]LogLoad: (Engine Initialization) Total time: 43.09 seconds
+[2019.11.18-23.22.49:562][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.18-23.22.49:610][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.18-23.22.49:714][  1]LogAssetRegistry: Asset discovery search completed in 21.2981 seconds
+[2019.11.18-23.22.49:715][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.18-23.22.49:715][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.11.18-23.23.32:646][472]LogInit: XAudio2 using 'Headphones +SSE3 (Jib+ Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.18-23.23.32:982][473]LogInit: XAudio2 using 'Headphones +SSE3 (Jib+ Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.18-23.52.02:594][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-23.52.10:136][ 14]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-23.52.10:156][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sam Hirsch\Pictures\SpaceTexture_right1.png)
+[2019.11.18-23.52.10:167][ 14]LogTexture: Display: Building textures: SpaceTexture_right1 (AutoDXT, 512X512)
+[2019.11.18-23.52.22:473][160]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MatTextures/SpaceTexture_right1.SpaceTexture_right1
+[2019.11.18-23.52.22:497][160]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.18-23.52.27:262][435]LogTexture: Display: Building textures: SpaceTexture_right1 (BGRA8, 512X512)
+[2019.11.18-23.52.30:672][630]LogSlate: Window 'SpaceTexture_right1*' being destroyed
+[2019.11.18-23.52.30:678][631]LogRenderer: Reallocating scene render targets to support 1052x888 Format 10 NumSamples 1 (Frame:1135).
+[2019.11.18-23.52.44:159][323]LogTexture: Display: Building textures: SpaceTexture_right1 (BGRA8, 512X512)
+[2019.11.18-23.53.09:127][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatTextures/SpaceTexture_right1" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/SpaceTexture_right1.uasset" SILENT=true
+[2019.11.18-23.53.09:171][647]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/SpaceTexture_right1EEDE57DD40B2411E637C8CA613FBA4CC.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/SpaceTexture_right1.uasset'
+[2019.11.18-23.53.41:474][168]LogAssetEditorManager: Opening Asset editor for Material /Game/MatTextures/Mat_OuterSpace.Mat_OuterSpace
+[2019.11.18-23.53.41:477][168]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.53.41:936][168]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.53.41:949][168]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.53.41:950][168]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.53.41:950][168]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.53.41:950][168]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.53.41:951][168]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.53.41:951][168]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.53.41:951][168]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.53.41:951][168]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.53.41:958][168]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.53.42:038][168]LogSlate: Took 0.006285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.18-23.53.43:077][219]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.53.43:138][222]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.53.43:138][222]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.53.43:170][224]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.53.43:185][225]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.53.43:206][226]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.53.43:206][226]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.53.43:206][226]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.53.43:355][235]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.53.43:408][238]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.53.43:424][239]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.53.43:442][240]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.53.43:442][240]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.53.43:442][240]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.53.43:442][240]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.53.43:506][244]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.53.43:556][247]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.53.43:794][261]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.53.43:825][263]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.53.43:991][273]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.53.44:041][276]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.53.44:501][303]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.53.44:501][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.53.44:501][303]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.53.44:501][303]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.53.49:581][484]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.18-23.53.55:663][844]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpaceSkybox.BP_SpaceSkybox
+[2019.11.18-23.53.56:523][844]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2019.11.18-23.54.19:791][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level' took 0.033
+[2019.11.18-23.54.19:793][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MatTextures/Mat_OuterSpace] ([1] browsable assets)...
+[2019.11.18-23.54.19:824][923]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MatTextures/Mat_OuterSpace.Mat_OuterSpace]
+[2019.11.18-23.54.19:824][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/MatTextures/Mat_OuterSpace]
+[2019.11.18-23.54.19:840][923]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Mat_OuterSpace_Auto163B4554B4D3C1D6310EF32A65EBA521C.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Autosaves/Game/MatTextures/Mat_OuterSpace_Auto1.uasset'
+[2019.11.18-23.54.19:842][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_SpaceSkybox] ([1] browsable assets)...
+[2019.11.18-23.54.19:842][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SpaceSkybox]
+[2019.11.18-23.54.19:855][923]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/BP_SpaceSkybox_Auto1C3557B374232C4A71144CB9DA8B8A990.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Autosaves/Game/Blueprints/BP_SpaceSkybox_Auto1.uasset'
+[2019.11.18-23.54.19:856][923]LogFileHelpers: Auto-saving content packages took 0.064
+[2019.11.18-23.54.24:610][964]LogSlate: Took 0.008082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.18-23.55.27:135][817]BlueprintLog: New page: Compile BP_SpaceSkybox
+[2019.11.18-23.55.29:023][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpaceSkybox" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset" SILENT=true
+[2019.11.18-23.55.29:042][918]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/BP_SpaceSkybox1B2CF02B478FCCA83FBC84980C8792BE.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset'
+[2019.11.18-23.55.40:366][595]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.55.40:385][595]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.18-23.55.40:392][595]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.11.18-23.55.40:392][595]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.11.18-23.55.40:392][595]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.55.40:393][595]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.55.40:393][595]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.55.40:393][595]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.55.40:393][595]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.55.40:393][595]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.55.40:421][595]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.18-23.55.41:230][641]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.55.41:260][643]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.55.41:278][644]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.55.41:310][646]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.55.41:311][646]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.55.41:345][648]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.55.41:345][648]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.55.41:345][648]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.55.41:494][657]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.55.41:697][669]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.55.41:731][671]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.55.41:934][683]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.55.41:966][685]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.55.42:036][689]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.55.42:052][690]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.55.42:379][709]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.55.42:379][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.55.42:379][709]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.55.42:379][709]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.55.52:840][ 10]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.55.52:890][ 11]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.55.53:132][ 26]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.55.53:147][ 27]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.55.53:148][ 27]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.55.53:179][ 29]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.55.53:179][ 29]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.55.53:212][ 31]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.55.53:212][ 31]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.55.53:213][ 31]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.55.53:312][ 37]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.55.53:470][ 46]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.55.53:551][ 51]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.55.53:717][ 61]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.55.53:784][ 65]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.55.54:643][116]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.55.54:643][116]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.55.54:643][116]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.55.54:643][116]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.56.08:509][946]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.56.08:525][946]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.56.08:525][946]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2019.11.18-23.56.08:808][960]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.56.08:824][961]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.56.08:841][962]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.56.08:841][962]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.56.08:841][962]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.56.08:841][962]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.56.08:841][962]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.56.08:923][967]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.56.08:990][971]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.56.09:177][982]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.56.09:261][987]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.56.09:364][993]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.56.09:429][997]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.56.09:751][ 16]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.56.09:751][ 16]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.56.09:751][ 16]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.56.09:751][ 16]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.56.19:119][577]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.56.19:146][577]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.56.19:160][577]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2019.11.18-23.56.19:392][590]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.56.19:409][591]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.56.19:440][593]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.56.19:440][593]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.56.19:440][593]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.56.19:440][593]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.56.19:440][593]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.56.19:492][596]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.56.19:577][601]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.56.19:746][611]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.56.19:799][614]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.56.19:963][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.56.20:014][627]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.56.20:341][645]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.56.20:341][645]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.56.20:341][645]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.56.20:341][645]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.56.28:694][ 28]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.56.28:712][ 28]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.56.28:712][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2019.11.18-23.56.28:993][ 44]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.56.29:008][ 45]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.56.29:008][ 45]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.56.29:036][ 47]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.56.29:036][ 47]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.56.29:036][ 47]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.56.29:036][ 47]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.56.29:036][ 47]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.56.29:189][ 56]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.56.29:364][ 66]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.56.29:424][ 70]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.56.29:591][ 80]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.56.29:655][ 84]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.56.29:965][102]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.56.29:965][102]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.56.29:965][102]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.56.29:965][102]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.56.45:259][274]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.56.45:280][276]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.56.45:537][291]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.56.45:568][293]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.56.45:588][294]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.56.45:602][295]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.56.45:602][295]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.56.45:602][295]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.56.45:635][297]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.56.45:635][297]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.56.45:754][304]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.56.45:973][317]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.56.46:037][321]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.56.46:173][329]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.56.46:193][330]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.56.46:881][371]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.56.46:881][371]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.56.46:881][371]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.56.46:881][371]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.56.49:118][505]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.56.49:134][505]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.56.49:134][505]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2019.11.18-23.56.49:407][521]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.56.49:425][522]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.56.49:439][523]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.56.49:439][523]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.56.49:440][523]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.56.49:471][525]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.56.49:471][525]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.56.49:471][525]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.56.49:591][532]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.56.49:742][541]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.56.49:810][545]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.56.49:962][554]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.56.50:024][558]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.56.50:829][605]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.56.50:829][605]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.56.50:829][605]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.56.50:829][605]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.57.16:722][674]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.57.16:737][674]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.57.16:740][674]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.57.16:743][674]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.57.16:787][674]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.11.18-23.57.17:472][714]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.11.18-23.57.17:554][719]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.11.18-23.57.17:569][720]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.57.17:570][720]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.57.17:570][720]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.57.17:621][723]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.57.17:638][724]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.57.17:659][725]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.57.17:844][736]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.57.17:861][737]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.57.17:893][739]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.57.17:893][739]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.57.17:893][739]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.57.17:925][741]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.57.17:925][741]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.57.17:925][741]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.57.18:042][748]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.57.18:212][758]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.57.18:281][762]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.57.18:416][770]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.57.18:485][774]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.57.18:500][775]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.57.18:531][777]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.57.18:858][796]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.57.18:858][796]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.57.18:858][796]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.57.18:858][796]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.57.31:807][ 76]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.57.31:862][ 77]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.57.32:085][ 91]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.57.32:104][ 92]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.57.32:104][ 92]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.57.32:151][ 95]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.57.32:151][ 95]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.57.32:151][ 95]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.57.32:151][ 95]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.57.32:185][ 97]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.57.32:268][102]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.57.32:436][109]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.57.32:485][112]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.57.32:668][123]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.57.32:685][124]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.57.35:136][270]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.57.35:151][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.18-23.57.35:186][271]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.11.18-23.57.35:187][271]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.11.18-23.57.35:187][271]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.57.35:187][271]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.57.35:187][271]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.57.35:187][271]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.57.35:187][271]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.57.35:187][271]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.57.35:427][286]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.57.35:443][287]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.57.35:443][287]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.57.35:443][287]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.57.35:491][290]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.57.35:492][290]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.57.35:492][290]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.57.35:492][290]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.57.35:627][298]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.57.35:764][306]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.57.35:849][311]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.57.35:998][320]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.57.36:063][324]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.57.36:080][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.57.36:130][328]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.57.36:454][347]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.57.36:454][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.57.36:454][347]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.57.36:454][347]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.57.39:057][503]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.57.39:079][503]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.57.39:080][503]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.57.39:080][503]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.57.39:080][503]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.57.39:080][503]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.57.39:080][503]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.57.39:080][503]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.57.39:080][503]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.57.39:080][503]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.18-23.57.39:355][519]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.57.39:371][520]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.57.39:371][520]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.57.39:404][522]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.57.39:404][522]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.57.39:404][522]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.57.39:404][522]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.57.39:404][522]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.57.39:537][530]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.57.39:724][541]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.57.39:782][544]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.57.39:941][554]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.57.39:973][556]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.57.40:005][558]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.57.40:024][559]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.57.41:126][585]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.57.41:126][585]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.57.41:126][585]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.57.41:126][585]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.57.51:230][772]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.57.51:232][772]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.18-23.57.51:232][772]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.18-23.57.51:239][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2019.11.18-23.57.51:264][772]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.18-23.58.15:081][570]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.58.15:081][570]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.18-23.58.15:081][570]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.18-23.58.50:177][ 87]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.58.50:178][ 87]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.18-23.58.50:178][ 87]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.18-23.58.59:670][644]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.58.59:670][644]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.18-23.58.59:670][644]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.18-23.58.59:672][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.18-23.58.59:680][644]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.58.59:680][644]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.58.59:705][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2019.11.18-23.58.59:708][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.11.18-23.58.59:719][644]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.58.59:719][644]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.58.59:719][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.18-23.58.59:775][645]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.58.59:775][645]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.01:514][748]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.01:563][749]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.01:771][762]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.01:789][763]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.01:803][764]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.01:803][764]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.01:803][764]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.01:853][767]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.01:954][773]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.02:107][782]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.02:298][793]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.02:327][795]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.02:360][797]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.02:377][798]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.02:394][799]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.02:802][823]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.59.02:802][823]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.59.02:802][823]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.59.02:802][823]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.59.04:455][922]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.04:474][922]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.04:474][922]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.18-23.59.04:733][937]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.04:747][938]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.04:781][940]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.04:781][940]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.04:781][940]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.04:829][943]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.04:830][943]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.04:830][943]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.04:917][948]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.05:141][961]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.05:172][963]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.05:338][973]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.05:387][976]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.05:711][995]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.59.05:711][995]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.59.05:711][995]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.59.05:711][995]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.59.07:397][ 96]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.07:397][ 96]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.18-23.59.07:397][ 96]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.18-23.59.07:401][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.18-23.59.07:426][ 96]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.18-23.59.16:020][535]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.16:058][538]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.16:324][552]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.16:341][553]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.16:341][553]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.16:371][555]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.16:371][555]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.16:372][555]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.16:372][555]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.16:372][555]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.16:505][563]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.16:692][574]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.16:744][577]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.16:908][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.16:942][589]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.17:288][609]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.11.18-23.59.17:288][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.11.18-23.59.17:288][609]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.59.17:288][609]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.18-23.59.23:219][965]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.23:236][965]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.23:519][983]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.23:535][984]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.23:535][984]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.23:535][984]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.23:567][986]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.23:567][986]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.23:567][986]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.23:567][986]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.23:704][994]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.23:838][  2]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.23:920][  7]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.24:074][ 16]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.24:088][ 17]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.27:694][232]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.27:719][232]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.27:977][249]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.27:993][250]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.27:993][250]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.28:026][252]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.28:026][252]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.28:026][252]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.28:060][254]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.28:060][254]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.28:180][261]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.28:329][270]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.28:399][274]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.28:562][284]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.28:579][285]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.29:076][314]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.29:105][314]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.29:393][332]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.29:411][333]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.29:426][334]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.29:441][335]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.29:441][335]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.29:441][335]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.29:441][335]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.29:492][338]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.29:594][344]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.29:750][353]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.29:817][357]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.29:985][367]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.30:081][372]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.31:007][427]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.31:023][427]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.31:308][445]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.31:308][445]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.31:324][446]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.31:325][446]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.31:325][446]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.31:325][446]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.31:375][449]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.31:376][449]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.31:491][456]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.31:643][465]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.31:709][469]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.31:842][477]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.31:893][480]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.48:942][696]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.11.18-23.59.48:966][696]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.11.18-23.59.49:241][714]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.11.18-23.59.49:258][715]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.11.18-23.59.49:273][716]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.11.18-23.59.49:273][716]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.18-23.59.49:273][716]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.11.18-23.59.49:307][718]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.11.18-23.59.49:307][718]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.11.18-23.59.49:307][718]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.18-23.59.49:424][725]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.18-23.59.49:595][735]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.49:644][738]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.49:799][747]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.49:853][750]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.51:626][856]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.51:638][856]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.51:638][856]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.51:638][856]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.51:638][856]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.51:640][856]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.51:648][856]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.51:715][857]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.18-23.59.51:715][857]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.18-23.59.51:715][857]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.18-23.59.51:715][857]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.18-23.59.52:051][877]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.11.18-23.59.52:051][877]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.18-23.59.52:051][877]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.18-23.59.55:168][ 64]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.18-23.59.55:168][ 64]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.18-23.59.55:168][ 64]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.18-23.59.55:181][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.18-23.59.55:204][ 64]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.19-00.00.01:536][443]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.00.01:537][443]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.00.01:537][443]LogMaterial: 	(Node TextureSample) Coercion failed: Parameters.ReflectionVector: float3 -> float2
+[2019.11.19-00.00.01:538][443]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: Parameters.ReflectionVector: float3 -> float2
+[2019.11.19-00.00.04:707][632]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.00.04:707][632]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.00.04:707][632]LogMaterial: 	(Node TextureSample) Coercion failed: Parameters.ReflectionVector: float3 -> float2
+[2019.11.19-00.00.04:710][632]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2019.11.19-00.00.04:736][633]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.00.04:736][633]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.00.08:324][848]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.00.08:325][848]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.00.08:325][848]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.19-00.00.08:337][848]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2019.11.19-00.00.08:354][848]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.00.08:354][848]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.00.08:367][848]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.19-00.00.15:170][255]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.00.15:171][255]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.00.15:171][255]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat3(0.00000000,0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.19-00.00.17:625][401]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.00.17:625][401]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.00.17:626][401]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat2(0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.19-00.00.17:628][401]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat2(0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.19-00.00.19:017][484]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.00.19:018][484]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.00.19:018][484]LogMaterial: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local0 = ReflectionAboutCustomWorldNormal(Parameters, MaterialFloat2(0.00000000,0.00000000), false);
+: float3 -> float2
+[2019.11.19-00.00.37:555][593]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.00.37:555][593]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.00.37:555][593]LogMaterial: 	(Node TextureSample) Coercion failed: Parameters.ReflectionVector: float3 -> float2
+[2019.11.19-00.00.37:556][593]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: Parameters.ReflectionVector: float3 -> float2
+[2019.11.19-00.01.11:443][269]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.01.11:460][269]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.01.11:460][269]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.01.11:460][269]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.01.11:460][269]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.01.11:473][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.19-00.01.11:525][270]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.01.11:525][270]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.01.12:276][315]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2019.11.19-00.01.12:276][315]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.11.19-00.01.12:276][315]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.01.12:276][315]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.01.12:276][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.19-00.01.14:675][459]LogMaterialEditor: Saving and Compiling material Mat_OuterSpace
+[2019.11.19-00.01.15:182][459]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.01.15:204][459]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.01.15:205][459]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.01.15:205][459]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.01.15:205][459]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.01.15:230][459]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.01.15:242][459]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.01.15:284][459]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.19-00.01.15:294][459]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_OuterSpace, compiling. 
+[2019.11.19-00.01.15:507][459]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.01.15:509][459]TextureStreamingBuild: Display: Compiling optional shaders took 0.223 seconds.
+[2019.11.19-00.01.16:000][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatTextures/Mat_OuterSpace" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset" SILENT=true
+[2019.11.19-00.01.16:017][459]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Mat_OuterSpace984EC9F14F579171E4E63FA1A5EF4A53.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset'
+[2019.11.19-00.01.42:949][477]LogSlate: Took 0.005284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.19-00.02.03:073][184]LogClass: Warning: Type mismatch in Material of SKEL_BP_SpaceSkybox_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2019.11.19-00.03.16:415][553]BlueprintLog: New page: Compile BP_SpaceSkybox
+[2019.11.19-00.03.49:737][354]BlueprintLog: New page: Compile BP_SpaceSkybox
+[2019.11.19-00.03.50:401][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpaceSkybox" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset" SILENT=true
+[2019.11.19-00.03.50:442][384]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/BP_SpaceSkybox223D8A6E4DEE2BEDD231DF90AA7131B6.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset'
+[2019.11.19-00.04.29:650][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-00.04.30:634][362]BlueprintLog: New page: Compile BP_SpaceSkybox
+[2019.11.19-00.04.31:241][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpaceSkybox" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset" SILENT=true
+[2019.11.19-00.04.31:269][385]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/BP_SpaceSkyboxFD8980A447D609C18A3039BA8165F269.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset'
+[2019.11.19-00.05.04:409][798]BlueprintLog: New page: Compile BP_SpaceSkybox
+[2019.11.19-00.05.05:086][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpaceSkybox" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset" SILENT=true
+[2019.11.19-00.05.05:108][829]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/BP_SpaceSkyboxF6C70B294E7D0707D449E2907104CE9A.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Blueprints/BP_SpaceSkybox.uasset'
+[2019.11.19-00.05.07:204][955]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.19-00.05.07:231][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-00.05.07:254][955]PIE: New page: PIE session: Level (Nov 18, 2019, 12:05:07 PM)
+[2019.11.19-00.05.07:255][955]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2019.11.19-00.05.07:259][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003850s)
+[2019.11.19-00.05.07:259][955]LogAIModule: Creating AISystem for world Level
+[2019.11.19-00.05.07:260][955]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2019.11.19-00.05.07:261][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.005606s)
+[2019.11.19-00.05.07:332][955]LogInit: XAudio2 using 'Headphones +SSE3 (Jib+ Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-00.05.07:343][955]LogInit: FAudioDevice initialized.
+[2019.11.19-00.05.07:354][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-00.05.07:456][955]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.19-00.05.07:466][955]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2019.11.18-18.05.07
+[2019.11.19-00.05.07:468][955]LogWorld: Bringing up level for play took: 0.001716
+[2019.11.19-00.05.07:514][955]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.11.19-00.05.07:518][955]LogBlueprintUserMessages: [BP_Spaceship_C_0] not star
+[2019.11.19-00.05.07:525][955]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_Spawner_C /Game/UEDPIE_0_Level.Level:PersistentLevel.BP_Spawner_2
+	Function /Game/Blueprints/BP_Spawner.BP_Spawner_C:ExecuteUbergraph_BP_Spawner:0086
+[2019.11.19-00.05.07:525][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  BP_Spawner Function:  Execute Ubergraph BP Spawner Graph:  EventGraph Node:  Set Life Span
+[2019.11.19-00.05.07:539][955]PIE: Play in editor start time for /Game/UEDPIE_0_Level -0.148
+[2019.11.19-00.05.11:151][168]LogBlueprintUserMessages: [BP_Spaceship_C_0] not star
+[2019.11.19-00.05.13:268][295]LogBlueprintUserMessages: [BP_Spaceship_C_0] star
+[2019.11.19-00.05.14:687][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-00.05.14:705][380]LogSlate: Window 'SpaceshipGameBP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.19-00.05.14:744][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-00.05.14:807][381]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.19-00.05.47:076][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Autosaves/Game/Level_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.19-00.05.47:111][955]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Level_Auto27ADBA4A0401205B85F2E939066187504.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Autosaves/Game/Level_Auto2.umap'
+[2019.11.19-00.05.47:114][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level' took 0.071
+[2019.11.19-00.05.47:114][955]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2019.11.19-00.06.30:564][ 76]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.06.30:570][ 76]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.06.30:618][ 77]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.06.30:618][ 77]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.06.30:618][ 77]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.06.30:618][ 77]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.06.31:334][119]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2019.11.19-00.06.31:334][119]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.11.19-00.06.31:334][119]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.06.31:334][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.06.31:334][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.19-00.06.45:196][662]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.06.45:216][662]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.06.45:216][662]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.06.45:216][662]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.06.45:216][662]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.06.45:229][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.06.45:507][677]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2019.11.19-00.06.45:507][677]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.11.19-00.06.45:507][677]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.06.45:507][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.06.45:507][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.19-00.06.59:870][536]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.06.59:882][536]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.06.59:882][536]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.06.59:882][536]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.06.59:882][536]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.06.59:882][536]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.06.59:908][536]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.06.59:925][537]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.06.59:925][537]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.06.59:925][537]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.06.59:925][537]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.07.00:711][584]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2019.11.19-00.07.00:711][584]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.11.19-00.07.00:711][584]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.07.00:711][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.07.00:711][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.19-00.07.12:147][270]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.07.12:158][270]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.07.12:158][270]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.07.12:158][270]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.07.12:158][270]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.07.12:162][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.07.12:496][289]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2019.11.19-00.07.12:496][289]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.11.19-00.07.12:496][289]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.07.12:497][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.07.12:497][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.19-00.07.37:014][800]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.07.37:022][801]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.07.37:022][801]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.07.37:022][801]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.07.37:022][801]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.07.37:763][845]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.11.19-00.07.37:763][845]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.19-00.07.37:763][845]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.19-00.07.39:596][955]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.07.39:597][955]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.07.39:597][955]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.07.39:607][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.07.39:633][955]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.07.52:671][736]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.07.52:672][736]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.07.52:672][736]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.19:758][983]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.19:759][983]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.19:759][983]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.19:762][983]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.19:762][983]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.19:762][983]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.19:790][983]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.09.21:737][ 99]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.21:737][ 99]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.21:737][ 99]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.31:761][602]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.31:761][602]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.31:761][602]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.31:764][602]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.31:764][602]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.31:764][602]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.34:231][749]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.34:231][749]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.34:231][749]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.34:234][749]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.34:234][749]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.34:234][749]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.36:134][863]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.36:135][863]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.36:135][863]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.39:030][ 35]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.39:030][ 35]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.39:030][ 35]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.39:032][ 35]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.11.19-00.09.39:037][ 35]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.39:038][ 35]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.09.39:038][ 35]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.09.39:038][ 35]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.39:038][ 35]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.39:073][ 35]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.11.19-00.09.39:121][ 36]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.09.39:121][ 36]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.09.44:614][365]LogMaterialEditor: Saving and Compiling material Mat_OuterSpace
+[2019.11.19-00.09.47:833][365]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2019.11.19-00.09.48:332][365]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.48:332][365]LogMaterial: Warning: /Engine/Transient.Mat_OuterSpace (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.48:332][365]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.48:359][365]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.48:359][365]LogMaterial: Warning: D:\Epic Games\UnrealProjects\SpaceshipGameBP\SpaceshipGameBP\Content\MatTextures\Mat_OuterSpace.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.48:359][365]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.48:362][365]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.48:362][365]LogMaterial: Warning: D:\Epic Games\UnrealProjects\SpaceshipGameBP\SpaceshipGameBP\Content\MatTextures\Mat_OuterSpace.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-00.09.48:362][365]LogMaterial: 	(Node TextureSampleParameterCube) ParamCube> Requires TextureCube
+[2019.11.19-00.09.48:394][365]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_OuterSpace, compiling. 
+[2019.11.19-00.09.48:395][365]TextureStreamingBuild: Display: Compiling optional shaders took 0.007 seconds.
+[2019.11.19-00.09.48:471][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatTextures/Mat_OuterSpace" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset" SILENT=true
+[2019.11.19-00.09.48:496][365]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Mat_OuterSpace0A19F8A2444CBFED42914FA43911B903.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset'
+[2019.11.19-00.12.09:454][757]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.12.12:944][852]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sam Hirsch\Pictures\SpaceTexture.dds)
+[2019.11.19-00.12.13:150][852]LogTexture: Display: Building textures: SpaceTexture (AutoDXT, 2048X2048)
+[2019.11.19-00.13.48:512][188]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.13.56:412][655]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.13.56:427][655]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.13.56:427][655]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.13.56:427][655]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.13.56:427][655]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.13.56:427][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.13.56:455][655]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.13.56:506][656]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.11.19-00.13.56:506][656]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.19-00.13.56:506][656]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.13.56:506][656]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.13.57:083][691]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.13.57:190][697]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.13.57:446][712]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2019.11.19-00.13.57:446][712]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.19-00.13.57:446][712]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.13.57:446][712]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.14.00:473][893]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.00:516][894]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.14.00:516][894]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.14.00:516][894]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.14.00:516][894]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.00:800][911]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2019.11.19-00.14.00:800][911]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.19-00.14.00:800][911]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.14.00:800][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.14.02:049][986]LogMaterialEditor: Saving and Compiling material Mat_OuterSpace
+[2019.11.19-00.14.02:567][986]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.02:580][986]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.14.02:580][986]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.14.02:580][986]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.14.02:580][986]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.02:608][986]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.02:618][986]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.02:624][986]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.19-00.14.02:664][986]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.02:865][986]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.02:866][986]TextureStreamingBuild: Display: Compiling optional shaders took 0.208 seconds.
+[2019.11.19-00.14.03:368][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatTextures/Mat_OuterSpace" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset" SILENT=true
+[2019.11.19-00.14.03:386][986]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Mat_OuterSpace476CE1184DA19EB848505E911785AC23.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset'
+[2019.11.19-00.14.06:059][146]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.06:078][148]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.14.06:078][148]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.14.06:078][148]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.14.06:078][148]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.06:390][166]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.11.19-00.14.06:390][166]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.19-00.14.06:390][166]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.19-00.14.08:426][288]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.08:440][288]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.14.08:441][288]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.14.08:441][288]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.14.08:441][288]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.08:441][288]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_1, compiling. 
+[2019.11.19-00.14.08:496][291]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.14.08:496][291]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.08:790][308]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2019.11.19-00.14.08:790][308]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.11.19-00.14.08:790][308]MaterialEditorStats: Texture samplers: 1/16
+[2019.11.19-00.14.08:790][308]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.19-00.14.09:741][365]LogMaterialEditor: Saving and Compiling material Mat_OuterSpace
+[2019.11.19-00.14.10:234][365]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.10:247][365]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.11.19-00.14.10:248][365]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.11.19-00.14.10:248][365]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.11.19-00.14.10:248][365]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.10:275][365]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.10:283][365]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.10:316][365]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.19-00.14.10:325][365]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.10:531][365]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.11.19-00.14.10:532][365]TextureStreamingBuild: Display: Compiling optional shaders took 0.215 seconds.
+[2019.11.19-00.14.10:992][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatTextures/Mat_OuterSpace" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset" SILENT=true
+[2019.11.19-00.14.11:009][365]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Mat_OuterSpace8D0D864643050CF010A1B8B681E76E1A.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/Mat_OuterSpace.uasset'
+[2019.11.19-00.14.14:933][509]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.14.17:817][593]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.19-00.14.17:840][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-00.14.17:841][593]PIE: New page: PIE session: Level (Nov 18, 2019, 12:14:17 PM)
+[2019.11.19-00.14.17:841][593]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2019.11.19-00.14.17:843][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001988s)
+[2019.11.19-00.14.17:843][593]LogAIModule: Creating AISystem for world Level
+[2019.11.19-00.14.17:843][593]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2019.11.19-00.14.17:843][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.002769s)
+[2019.11.19-00.14.17:905][593]LogInit: XAudio2 using 'Headphones +SSE3 (Jib+ Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-00.14.17:917][593]LogInit: FAudioDevice initialized.
+[2019.11.19-00.14.17:927][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-00.14.18:032][593]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.19-00.14.18:033][593]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2019.11.18-18.14.18
+[2019.11.19-00.14.18:034][593]LogWorld: Bringing up level for play took: 0.000476
+[2019.11.19-00.14.18:046][593]LogBlueprintUserMessages: [BP_Spaceship_C_0] not star
+[2019.11.19-00.14.18:046][593]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_Spawner_C /Game/UEDPIE_0_Level.Level:PersistentLevel.BP_Spawner_2
+	Function /Game/Blueprints/BP_Spawner.BP_Spawner_C:ExecuteUbergraph_BP_Spawner:0086
+[2019.11.19-00.14.18:046][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  BP_Spawner Function:  Execute Ubergraph BP Spawner Graph:  EventGraph Node:  Set Life Span
+[2019.11.19-00.14.18:050][593]PIE: Play in editor start time for /Game/UEDPIE_0_Level 0.362
+[2019.11.19-00.14.20:293][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-00.14.20:309][725]LogSlate: Window 'SpaceshipGameBP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.19-00.14.20:344][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-00.14.20:398][726]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.19-00.14.23:083][886]LogAssetEditorManager: Opening Asset editor for TextureCube /Game/MatTextures/SpaceTexture.SpaceTexture
+[2019.11.19-00.14.26:454][ 74]LogSlate: Window 'SpaceTexture*' being destroyed
+[2019.11.19-00.14.44:999][180]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.14.45:044][180]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.19-00.15.08:617][714]LogTexture: Display: Building textures: SpaceTexture (BGRA8, 2048X2048)
+[2019.11.19-00.16.19:359][714]LogMaterial: Display: Missing cached shader map for material Mat_OuterSpace, compiling. 
+[2019.11.19-00.16.19:425][714]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.11.19-00.16.22:878][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatTextures/SpaceTexture" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/SpaceTexture.uasset" SILENT=true
+[2019.11.19-00.16.23:268][912]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/SpaceTexture22B6ED8943628495314EAEBAD159A430.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/MatTextures/SpaceTexture.uasset'
+[2019.11.19-00.16.25:513][ 44]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.19-00.16.25:529][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-00.16.25:529][ 44]PIE: New page: PIE session: Level (Nov 18, 2019, 12:16:25 PM)
+[2019.11.19-00.16.25:529][ 44]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2019.11.19-00.16.25:531][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001767s)
+[2019.11.19-00.16.25:531][ 44]LogAIModule: Creating AISystem for world Level
+[2019.11.19-00.16.25:531][ 44]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.11.19-00.16.25:531][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.002558s)
+[2019.11.19-00.16.25:595][ 44]LogInit: XAudio2 using 'Headphones +SSE3 (Jib+ Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-00.16.25:607][ 44]LogInit: FAudioDevice initialized.
+[2019.11.19-00.16.25:620][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-00.16.25:703][ 44]LogLoad: Game class is 'BP_GameMode_C'
+[2019.11.19-00.16.25:704][ 44]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 60) at 2019.11.18-18.16.25
+[2019.11.19-00.16.25:704][ 44]LogWorld: Bringing up level for play took: 0.000589
+[2019.11.19-00.16.25:717][ 44]LogBlueprintUserMessages: [BP_Spaceship_C_0] not star
+[2019.11.19-00.16.25:717][ 44]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	BP_Spawner_C /Game/UEDPIE_0_Level.Level:PersistentLevel.BP_Spawner_2
+	Function /Game/Blueprints/BP_Spawner.BP_Spawner_C:ExecuteUbergraph_BP_Spawner:0086
+[2019.11.19-00.16.25:717][ 44]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  BP_Spawner Function:  Execute Ubergraph BP Spawner Graph:  EventGraph Node:  Set Life Span
+[2019.11.19-00.16.25:720][ 44]PIE: Play in editor start time for /Game/UEDPIE_0_Level 0.032
+[2019.11.19-00.16.27:874][170]LogBlueprintUserMessages: [BP_Spaceship_C_0] not star
+[2019.11.19-00.16.28:657][217]LogBlueprintUserMessages: [BP_Spaceship_C_0] star
+[2019.11.19-00.16.29:490][267]LogBlueprintUserMessages: [BP_Spaceship_C_0] not star
+[2019.11.19-00.16.30:308][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-00.16.30:323][316]LogSlate: Window 'SpaceshipGameBP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.19-00.16.30:362][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-00.16.30:412][317]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.19-00.16.32:850][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.19-00.16.32:906][461]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/LevelCF2EA7CC47DCCDE0F60552AA9364D30A.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Level.umap'
+[2019.11.19-00.16.32:943][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_BuiltData" FILE="../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Level_BuiltData.uasset" SILENT=true
+[2019.11.19-00.16.32:963][461]LogSavePackage: Moving '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Saved/Level_BuiltDataCD4EDF574BFAA3236EA258BB6FD78EDB.tmp' to '../../../../UnrealProjects/SpaceshipGameBP/SpaceshipGameBP/Content/Level_BuiltData.uasset'
+[2019.11.19-00.16.37:315][713]LogSlate: Window 'SpaceshipGameBP - Unreal Editor' being destroyed
+[2019.11.19-00.16.37:316][713]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.19-00.16.37:534][714]Cmd: QUIT_EDITOR
+[2019.11.19-00.16.38:474][714]LogExit: Preparing to exit.
+[2019.11.19-00.16.39:398][714]LogExit: Editor shut down
+[2019.11.19-00.16.39:399][714]LogExit: Transaction tracking system shut down
+[2019.11.19-00.16.40:337][714]LogExit: Object subsystem successfully closed.
+[2019.11.19-00.16.40:386][714]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.19-00.16.40:395][714]LogD3D11RHI: Shutdown
+[2019.11.19-00.16.40:395][714]LogD3D11RHI: CleanupD3DDevice
+[2019.11.19-00.16.40:402][714]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.19-00.16.40:440][714]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2019.11.19-00.16.40:441][714]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2019.11.19-00.16.40:441][714]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2019.11.19-00.16.40:441][714]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2019.11.19-00.16.40:441][714]LogModuleManager: Shutting down and abandoning module TextureEditor (612)
+[2019.11.19-00.16.40:441][714]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.11.19-00.16.40:441][714]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.11.19-00.16.40:441][714]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.11.19-00.16.40:446][714]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.11.19-00.16.40:446][714]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.11.19-00.16.40:446][714]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.11.19-00.16.40:447][714]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.11.19-00.16.40:448][714]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.11.19-00.16.40:448][714]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.11.19-00.16.40:450][714]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.11.19-00.16.40:451][714]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.11.19-00.16.40:453][714]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.11.19-00.16.40:453][714]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.11.19-00.16.40:453][714]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.11.19-00.16.40:453][714]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.11.19-00.16.40:453][714]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.11.19-00.16.40:454][714]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.11.19-00.16.40:454][714]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.11.19-00.16.40:454][714]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.11.19-00.16.40:454][714]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.11.19-00.16.40:454][714]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.11.19-00.16.40:454][714]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.11.19-00.16.40:454][714]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.11.19-00.16.40:455][714]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.11.19-00.16.40:456][714]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.11.19-00.16.40:457][714]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.11.19-00.16.40:458][714]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.11.19-00.16.40:459][714]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.11.19-00.16.40:460][714]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.11.19-00.16.40:460][714]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.11.19-00.16.40:460][714]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.11.19-00.16.40:460][714]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.11.19-00.16.40:461][714]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.11.19-00.16.41:761][714]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.11.19-00.16.41:761][714]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.11.19-00.16.41:761][714]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.11.19-00.16.41:761][714]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.11.19-00.16.41:761][714]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.11.19-00.16.41:762][714]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.11.19-00.16.41:763][714]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.11.19-00.16.41:763][714]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.11.19-00.16.41:764][714]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.11.19-00.16.41:764][714]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.11.19-00.16.41:764][714]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.11.19-00.16.41:764][714]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.11.19-00.16.41:764][714]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.11.19-00.16.41:765][714]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.11.19-00.16.41:765][714]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.11.19-00.16.41:765][714]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.11.19-00.16.41:765][714]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.11.19-00.16.41:766][714]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.11.19-00.16.41:767][714]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.11.19-00.16.41:767][714]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.11.19-00.16.41:767][714]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.11.19-00.16.41:768][714]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.11.19-00.16.41:823][714]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.11.19-00.16.41:823][714]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.11.19-00.16.41:824][714]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.11.19-00.16.41:826][714]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.11.19-00.16.41:826][714]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.11.19-00.16.41:826][714]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.11.19-00.16.41:827][714]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.11.19-00.16.41:827][714]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.11.19-00.16.41:827][714]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.11.19-00.16.41:828][714]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.11.19-00.16.41:832][714]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.11.19-00.16.41:832][714]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.11.19-00.16.41:833][714]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.11.19-00.16.41:833][714]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.11.19-00.16.41:833][714]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.11.19-00.16.41:834][714]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.11.19-00.16.41:834][714]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.11.19-00.16.41:834][714]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.11.19-00.16.41:834][714]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.11.19-00.16.41:834][714]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.11.19-00.16.41:835][714]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.11.19-00.16.41:836][714]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.11.19-00.16.41:836][714]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.11.19-00.16.41:836][714]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.11.19-00.16.41:836][714]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.11.19-00.16.41:920][714]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.11.19-00.16.41:921][714]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.11.19-00.16.41:921][714]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.11.19-00.16.41:921][714]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.11.19-00.16.41:922][714]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.11.19-00.16.41:924][714]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.11.19-00.16.41:924][714]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.11.19-00.16.41:924][714]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.11.19-00.16.41:924][714]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.11.19-00.16.41:928][714]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.19-00.16.41:928][714]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.19-00.16.41:928][714]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.19-00.16.41:928][714]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.19-00.16.41:929][714]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.19-00.16.41:929][714]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.11.19-00.16.41:929][714]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.11.19-00.16.41:929][714]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.11.19-00.16.41:929][714]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.11.19-00.16.41:929][714]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.11.19-00.16.41:929][714]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.11.19-00.16.41:930][714]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.11.19-00.16.41:930][714]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.11.19-00.16.41:930][714]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.11.19-00.16.41:931][714]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.11.19-00.16.41:931][714]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.11.19-00.16.41:931][714]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.11.19-00.16.41:931][714]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.19-00.16.41:932][714]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.19-00.16.41:932][714]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.19-00.16.41:932][714]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.19-00.16.41:932][714]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.19-00.16.41:932][714]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.19-00.16.41:932][714]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.19-00.16.41:933][714]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.19-00.16.41:934][714]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.19-00.16.41:934][714]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.19-00.16.41:934][714]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.11.19-00.16.41:934][714]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.11.19-00.16.41:934][714]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.11.19-00.16.41:934][714]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.11.19-00.16.41:935][714]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.11.19-00.16.41:936][714]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.11.19-00.16.41:936][714]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.11.19-00.16.41:936][714]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.11.19-00.16.41:936][714]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.11.19-00.16.41:936][714]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.11.19-00.16.41:936][714]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.11.19-00.16.41:936][714]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.11.19-00.16.41:937][714]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.19-00.16.41:937][714]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.19-00.16.42:038][714]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.19-00.16.42:139][714]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.11.19-00.16.42:139][714]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.11.19-00.16.42:140][714]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.11.19-00.16.42:140][714]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.11.19-00.16.42:140][714]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.11.19-00.16.42:140][714]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.11.19-00.16.42:141][714]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.11.19-00.16.42:144][714]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.11.19-00.16.42:144][714]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.11.19-00.16.42:145][714]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.11.19-00.16.42:145][714]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.11.19-00.16.42:146][714]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.11.19-00.16.42:148][714]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.11.19-00.16.42:148][714]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.19-00.16.42:148][714]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.11.19-00.16.42:148][714]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.11.19-00.16.42:149][714]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.11.19-00.16.42:149][714]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.11.19-00.16.42:151][714]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.11.19-00.16.42:157][714]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.11.19-00.16.42:157][714]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.11.19-00.16.42:157][714]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.11.19-00.16.42:158][714]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.11.19-00.16.42:158][714]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.11.19-00.16.42:158][714]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.11.19-00.16.42:158][714]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.11.19-00.16.42:158][714]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.11.19-00.16.42:159][714]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.11.19-00.16.42:159][714]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.11.19-00.16.42:160][714]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.11.19-00.16.42:161][714]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.11.19-00.16.42:162][714]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.11.19-00.16.42:162][714]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.11.19-00.16.42:162][714]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.11.19-00.16.42:163][714]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.11.19-00.16.42:165][714]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.11.19-00.16.42:165][714]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.11.19-00.16.42:166][714]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.11.19-00.16.42:166][714]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.19-00.16.42:168][714]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.19-00.16.42:169][714]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.19-00.16.42:170][714]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.19-00.16.42:170][714]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.19-00.16.42:170][714]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.11.19-00.16.42:171][714]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.19-00.16.42:171][714]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.11.19-00.16.42:171][714]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.11.19-00.16.42:172][714]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.11.19-00.16.42:172][714]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.11.19-00.16.42:173][714]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.11.19-00.16.42:227][714]LogDerivedDataCache: Shutdown
+[2019.11.19-00.16.42:227][714]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.11.19-00.16.42:228][714]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.11.19-00.16.42:228][714]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.11.19-00.16.42:228][714]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.11.19-00.16.42:229][714]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.11.19-00.16.42:229][714]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.11.19-00.16.42:229][714]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.11.19-00.16.42:230][714]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.11.19-00.16.42:231][714]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.11.19-00.16.42:231][714]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.11.19-00.16.42:231][714]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.11.19-00.16.42:231][714]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.11.19-00.16.42:238][714]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.11.19-00.16.42:238][714]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.11.19-00.16.42:258][714]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.11.19-00.16.42:258][714]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.11.19-00.16.42:291][714]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.11.19-00.16.42:291][714]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.11.19-00.16.42:291][714]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.11.19-00.16.42:291][714]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.11.19-00.16.42:291][714]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.11.19-00.16.42:292][714]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.11.19-00.16.42:293][714]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.11.19-00.16.42:295][714]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.11.19-00.16.42:308][714]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.11.19-00.16.42:308][714]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.19-00.16.42:308][714]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B18AAABBF-41F0-CDD3-E07A-40995ADB75B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=5e90ac4f4dec89963bac268db9d79df9%7C165f927ac7d94a9db5ac94724233f04b%7C8d56af57-07ea-4387-be05-7d0408f5169f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.19-00.16.42:336][714]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.11.19-00.16.42:338][714]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.11.19-00.16.42:339][714]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.19-00.16.42:339][714]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.11.19-00.16.42:339][714]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.11.19-00.16.42:340][714]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.11.19-00.16.42:341][714]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.11.19-00.16.42:342][714]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.11.19-00.16.42:342][714]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.11.19-00.16.42:342][714]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.11.19-00.16.42:342][714]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.11.19-00.16.42:343][714]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.11.19-00.16.42:343][714]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.11.19-00.16.42:344][714]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.11.19-00.16.42:344][714]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.11.19-00.16.42:344][714]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.11.19-00.16.42:344][714]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.11.19-00.16.42:344][714]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.11.19-00.16.42:344][714]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.11.19-00.16.42:344][714]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.11.19-00.16.42:345][714]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.11.19-00.16.42:345][714]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.11.19-00.16.42:355][714]LogExit: Exiting.
+[2019.11.19-00.16.42:379][714]Log file closed, 11/18/19 18:16:42
